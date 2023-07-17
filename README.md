@@ -1,16 +1,37 @@
-# dicee3
+# Dice App
 
-A new Flutter project.
+A simple Flutter app that displays a pair of dice and allows you to roll them.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The Dice App is a mobile application built with Flutter. It displays two dice images on the screen, and when you tap on either of them, the app randomly changes the numbers on the dice. The dice numbers range from 1 to 6.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Include one or more screenshots of the app here to showcase its appearance.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Make sure you have Flutter installed on your local machine.
+2. Clone this repository to your local machine using `git clone`.
+3. Navigate to the project directory.
+4. Run `flutter pub get` to fetch the required dependencies.
+5. Connect a device or start an emulator.
+6. Run `flutter run` to build and launch the app.
+
+## Usage
+
+1. Launch the app on your device or emulator.
+2. You will see two dice on the screen.
+3. Tap on either dice to roll them.
+4. The dice numbers will change randomly.
+5. Tap again to roll them again and see different numbers.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## License
+
+[MIT License](LICENSE)
+
