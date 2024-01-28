@@ -18,3 +18,8 @@ To get started with the app, follow these steps:
 3. Run `flutter pub get` to install dependencies.
 4. Run `flutter run` to start the app.
 
+Contributing
+Contributions are welcome! Please read the contributing guidelines before making any changes.
+
+License
+This project is licensed under the Abenezer Y Bekele License. See the LICENSE file for more details.
